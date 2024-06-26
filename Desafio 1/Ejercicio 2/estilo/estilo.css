@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap:ital,wght@0,100..900;1,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=MuseoModerno:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    font-family: "Monserrat",sans-serif;
+    background-color: black;
+    text-align: center;
+    
+}
+
+h1, h2,h3,h4 {
+    font-weight: 700;
+}
+h1, h3{
+    background-color: white;
+}
+h2,p,h4{
+    color:white;
+}
+span, p{
+    font-weight: 600;
+}
+
+h4 {
+    font-size: 50pt;
+}
+h1{
+    font-size: 148pt;
+}
+h2{
+    font-size: 163pt;
+}
+
+h3, strong{
+    font-size: 45pt;
+}
+span{
+    font-size: 36pt;
+}
+p{
+    font-size: 44pt;
+}
+
